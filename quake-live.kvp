@@ -1,9 +1,9 @@
 Meta.DisplayName=Quake Live
 Meta.Description=Quake Live Dedicated Linux Server
 Meta.Arch=x86_64
-Meta.Author=grintBackes - Made with AMP Config Generator
+Meta.Author=grintBackes
 Meta.URL=https://store.steampowered.com/app/282440/Quake_Live/
-Meta.MinAMPVersion=2.4.6.6
+Meta.MinAMPVersion=2.4.6.0
 Meta.SpecificDockerImage=
 Meta.DockerRequired=False
 Meta.ContainerPolicy=Supported
