@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "DisplayName": "Name",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "name",
+        "FieldName": "",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
